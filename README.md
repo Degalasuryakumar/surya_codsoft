@@ -2,4 +2,4 @@ Hi i'm Surya ,I have completed my Webdevelopment project For Codsoft internship 
 *Portfolio
 *Landing Page
 *Calculator
-Using technologies like Html and css.
+Using technologies like Html,Css and Javascript.
